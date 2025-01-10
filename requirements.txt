@@ -1,0 +1,8 @@
+streamlit
+paddlepaddle
+paddleocr>=2.0.6
+Pillow
+numpy
+opencv-python-headless
+shapely
+pyclipper
