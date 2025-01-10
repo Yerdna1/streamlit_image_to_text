@@ -1,0 +1,18 @@
+# For Mac
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Python (if it's a Python project)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node (if it's a Node.js project)
+node_modules/
+npm-debug.log
