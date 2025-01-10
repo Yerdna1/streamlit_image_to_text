@@ -1,8 +1,10 @@
+setuptools
+wheel
 streamlit
-paddlepaddle
-paddleocr>=2.0.6
-Pillow
 numpy
+Pillow
 opencv-python-headless
 shapely
 pyclipper
+paddlepaddle==2.4.2
+paddleocr==2.6.1.3
